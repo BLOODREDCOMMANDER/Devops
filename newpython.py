@@ -24,3 +24,4 @@ elif operation == "/":
     result = num1 / num2
 else:    result = "Invalid operation"
 print("Result:", result)
+print("123456")
